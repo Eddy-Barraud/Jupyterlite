@@ -42,3 +42,7 @@ ipyleaflet
 # Python: plotting libraries (optional)
 plotly>=6,<7
 bqplot
+
+# Python: browser-friendly HTTP requests for JupyterLite
+requests
+pyodide-http
